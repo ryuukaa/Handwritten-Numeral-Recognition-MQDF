@@ -1,0 +1,1 @@
+# Handwritten-Numeral-Recognition-MQDF-
